@@ -7,7 +7,7 @@
 需要 macOS 13 或更新版本，以及 Xcode 或 Xcode Command Line Tools。
 
 ```sh
-./build.sh
+bash build.sh
 open "build/唱片机.app"
 ```
 
